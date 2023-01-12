@@ -1,0 +1,346 @@
+ 
+Log File 
+ 
+User : liwei 
+2023/01/13 周五 
+02:10
+ 
+Process Ran by liwei 
+ 
+
+映像名称                       PID 会话名              会话#       内存使用 
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0      3,700 K
+Registry                       200 Services                   0     94,012 K
+smss.exe                       572 Services                   0      1,144 K
+csrss.exe                      980 Services                   0      6,436 K
+wininit.exe                    944 Services                   0      6,820 K
+csrss.exe                      596 Console                    1      7,632 K
+winlogon.exe                  1076 Console                    1     13,180 K
+services.exe                  1120 Services                   0      8,632 K
+lsass.exe                     1140 Services                   0     20,272 K
+svchost.exe                   1268 Services                   0     34,376 K
+fontdrvhost.exe               1296 Console                    1     17,416 K
+fontdrvhost.exe               1304 Services                   0      3,048 K
+svchost.exe                   1404 Services                   0     16,256 K
+svchost.exe                   1448 Services                   0      8,720 K
+dwm.exe                       1508 Console                    1    118,248 K
+svchost.exe                   1636 Services                   0      5,112 K
+svchost.exe                   1644 Services                   0     13,288 K
+svchost.exe                   1652 Services                   0      8,324 K
+svchost.exe                   1660 Services                   0     11,808 K
+svchost.exe                   1768 Services                   0     10,252 K
+svchost.exe                   1776 Services                   0     12,044 K
+svchost.exe                   1852 Services                   0     16,200 K
+svchost.exe                   1892 Services                   0      8,620 K
+IntelCpHDCPSvc.exe            1908 Services                   0      7,608 K
+svchost.exe                   1916 Services                   0      5,724 K
+svchost.exe                   1932 Services                   0      7,284 K
+svchost.exe                   2016 Services                   0     10,176 K
+svchost.exe                   1388 Services                   0      7,036 K
+svchost.exe                   2144 Services                   0     15,176 K
+svchost.exe                   2176 Services                   0      7,868 K
+svchost.exe                   2268 Services                   0     11,392 K
+igfxCUIService.exe            2332 Services                   0      9,012 K
+svchost.exe                   2424 Services                   0     12,500 K
+svchost.exe                   2456 Services                   0      6,056 K
+NVDisplay.Container.exe       2692 Services                   0     16,928 K
+svchost.exe                   2844 Services                   0      8,716 K
+svchost.exe                   2864 Services                   0     14,772 K
+svchost.exe                   2892 Services                   0      7,416 K
+svchost.exe                   2900 Services                   0      9,268 K
+svchost.exe                   2944 Services                   0     14,320 K
+svchost.exe                   2952 Services                   0      5,872 K
+svchost.exe                   3012 Services                   0      8,176 K
+svchost.exe                   3020 Services                   0      7,516 K
+Memory Compression            2276 Services                   0    414,304 K
+svchost.exe                   3144 Services                   0      8,128 K
+svchost.exe                   3256 Services                   0      7,572 K
+WUDFHost.exe                  3324 Services                   0      8,504 K
+svchost.exe                   3476 Services                   0      6,484 K
+svchost.exe                   3484 Services                   0     15,296 K
+svchost.exe                   3528 Services                   0      9,152 K
+svchost.exe                   3644 Services                   0      6,720 K
+NVDisplay.Container.exe       3704 Console                    1     41,228 K
+svchost.exe                   3740 Services                   0     21,648 K
+svchost.exe                   3748 Services                   0      6,572 K
+svchost.exe                   3756 Services                   0      9,400 K
+svchost.exe                   3820 Services                   0     19,036 K
+svchost.exe                   3916 Services                   0      8,476 K
+svchost.exe                   4032 Services                   0     17,744 K
+svchost.exe                   4060 Services                   0     12,496 K
+spoolsv.exe                   4084 Services                   0     12,896 K
+svchost.exe                   3244 Services                   0     15,532 K
+svchost.exe                   4104 Services                   0      7,660 K
+audiodg.exe                   4120 Services                   0     21,164 K
+svchost.exe                   4376 Services                   0     12,816 K
+svchost.exe                   4384 Services                   0     42,628 K
+svchost.exe                   4392 Services                   0     39,972 K
+svchost.exe                   4400 Services                   0      6,496 K
+svchost.exe                   4408 Services                   0     20,676 K
+svchost.exe                   4436 Services                   0     10,172 K
+svchost.exe                   4444 Services                   0      5,488 K
+svchost.exe                   4452 Services                   0      7,560 K
+OneApp.IGCC.WinService.ex     4464 Services                   0     44,924 K
+vmware-authd.exe              4472 Services                   0     10,904 K
+vmware-usbarbitrator64.ex     4616 Services                   0     11,488 K
+RtkAudUService64.exe          4624 Services                   0     10,012 K
+Creative.UWPRPCService.ex     4632 Services                   0      6,208 K
+vmnat.exe                     4644 Services                   0      6,884 K
+QQProtect.exe                 4652 Services                   0     17,100 K
+MsMpEng.exe                   4660 Services                   0    186,880 K
+vmnetdhcp.exe                 4680 Services                   0      5,668 K
+VPNService.exe                4692 Services                   0      9,872 K
+Pluto-service.exe             4704 Services                   0     18,652 K
+svchost.exe                   4884 Services                   0      9,232 K
+dasHost.exe                   5220 Services                   0     11,632 K
+svchost.exe                   5324 Services                   0     12,272 K
+wlanext.exe                   5936 Services                   0      6,260 K
+conhost.exe                   5944 Services                   0      5,060 K
+WmiPrvSE.exe                  3652 Services                   0     14,416 K
+svchost.exe                   5352 Services                   0      7,492 K
+vmware-hostd.exe              6304 Services                   0     31,804 K
+clash-windows-amd64.exe       6472 Services                   0     49,872 K
+conhost.exe                   6532 Services                   0      9,312 K
+AggregatorHost.exe            7044 Services                   0      5,948 K
+svchost.exe                   4304 Services                   0      6,976 K
+sihost.exe                    7672 Console                    1     35,772 K
+svchost.exe                   7756 Console                    1      8,648 K
+svchost.exe                   7768 Console                    1     24,216 K
+svchost.exe                   7820 Console                    1     33,020 K
+taskhostw.exe                 7948 Console                    1     19,756 K
+svchost.exe                   8004 Services                   0     16,620 K
+svchost.exe                   8040 Services                   0      8,260 K
+ctfmon.exe                    8180 Console                    1     55,664 K
+svchost.exe                   8020 Services                   0     17,944 K
+ChsIME.exe                    8224 Console                    1      8,000 K
+GoogleCrashHandler.exe        8548 Services                   0      1,116 K
+GoogleCrashHandler64.exe      8556 Services                   0      1,064 K
+igfxEM.exe                    8660 Console                    1     13,268 K
+explorer.exe                  8732 Console                    1    231,936 K
+svchost.exe                   8776 Services                   0      8,704 K
+svchost.exe                   9064 Console                    1     24,404 K
+svchost.exe                   9120 Services                   0     12,184 K
+Widgets.exe                   8496 Console                    1     48,608 K
+NisSrv.exe                    7344 Services                   0     12,872 K
+SearchHost.exe                9520 Console                    1    106,452 K
+StartMenuExperienceHost.e     9564 Console                    1     78,976 K
+RuntimeBroker.exe             9712 Console                    1     26,424 K
+RuntimeBroker.exe             9772 Console                    1     37,968 K
+SearchIndexer.exe             9828 Services                   0     46,420 K
+svchost.exe                   9900 Console                    1      8,368 K
+dllhost.exe                   2984 Console                    1     13,200 K
+svchost.exe                  10460 Services                   0     17,248 K
+svchost.exe                  10936 Services                   0     13,224 K
+PhoneExperienceHost.exe      11340 Console                    1    102,548 K
+TextInputHost.exe            12012 Console                    1     76,780 K
+svchost.exe                  12104 Services                   0     13,364 K
+RuntimeBroker.exe            12212 Console                    1     12,888 K
+svchost.exe                  11736 Services                   0     10,728 K
+chrome.exe                   13000 Console                    1    164,440 K
+chrome.exe                   13100 Console                    1      7,780 K
+chrome.exe                   12756 Console                    1    531,232 K
+chrome.exe                   12764 Console                    1     38,932 K
+chrome.exe                   12792 Console                    1     16,316 K
+chrome.exe                   12788 Console                    1     58,344 K
+chrome.exe                   13364 Console                    1     47,588 K
+chrome.exe                   13400 Console                    1     62,524 K
+chrome.exe                   14004 Console                    1     54,280 K
+SecurityHealthSystray.exe    14192 Console                    1     10,220 K
+SecurityHealthService.exe    14212 Services                   0     16,316 K
+yundetectservice.exe         11720 Console                    1     14,152 K
+msedge.exe                    1344 Console                    1     87,520 K
+msedge.exe                    1608 Console                    1      7,468 K
+msedge.exe                    1904 Console                    1     32,128 K
+msedge.exe                    3492 Console                    1     33,044 K
+msedge.exe                    3796 Console                    1     16,528 K
+Cortana.exe                  14580 Console                    1     64,296 K
+AppleMobileDeviceProcess.    14652 Console                    1     13,336 K
+RuntimeBroker.exe            14792 Console                    1     28,220 K
+svchost.exe                  14924 Console                    1     20,148 K
+svchost.exe                  15020 Console                    1     22,128 K
+vmware-tray.exe              15140 Console                    1     11,772 K
+EvernoteClipper.exe           5412 Console                    1     13,064 K
+RtkAudUService64.exe         14984 Console                    1      3,320 K
+MotionProHttpd.exe           15156 Console                    1      7,800 K
+conhost.exe                  15148 Console                    1      9,336 K
+ApplicationFrameHost.exe      5848 Console                    1     30,252 K
+SystemSettings.exe           14716 Console                    1      2,040 K
+svchost.exe                  11196 Services                   0     11,152 K
+MoUsoCoreWorker.exe           8928 Services                   0     14,980 K
+MoNotificationUx.exe         12704 Console                    1     14,692 K
+chrome.exe                    1164 Console                    1    314,728 K
+chrome.exe                    9380 Console                    1     19,852 K
+chrome.exe                   12856 Console                    1     81,908 K
+OneDrive.exe                 15084 Console                    1     69,696 K
+svchost.exe                  10156 Console                    1     20,080 K
+svchost.exe                   4872 Services                   0     14,156 K
+chrome.exe                   10792 Console                    1     24,288 K
+svchost.exe                   9268 Services                   0     17,244 K
+SgrmBroker.exe                7884 Services                   0      8,144 K
+svchost.exe                   9128 Services                   0     10,852 K
+ShellExperienceHost.exe       3952 Console                    1     57,528 K
+RuntimeBroker.exe             7004 Console                    1     17,820 K
+msedgewebview2.exe            4528 Console                    1      6,128 K
+msedgewebview2.exe           11652 Console                    1      7,264 K
+msedgewebview2.exe            9384 Console                    1      5,056 K
+msedgewebview2.exe           14268 Console                    1      2,416 K
+msedgewebview2.exe           11016 Console                    1      1,672 K
+msedgewebview2.exe           13236 Console                    1      2,872 K
+Code.exe                      5444 Console                    1     97,160 K
+Code.exe                     15112 Console                    1     25,772 K
+Code.exe                     14808 Console                    1    120,396 K
+Code.exe                      2444 Console                    1     37,292 K
+Code.exe                      3852 Console                    1    194,768 K
+Code.exe                      8516 Console                    1     96,624 K
+Code.exe                      1788 Console                    1    102,128 K
+Code.exe                      2264 Console                    1     65,744 K
+Code.exe                     15136 Console                    1     69,580 K
+CodeSetup-stable-97dec172    14320 Console                    1      8,856 K
+CodeSetup-stable-97dec172     5968 Console                    1     20,832 K
+MpCopyAccelerator.exe         6456 Services                   0      6,184 K
+YoudaoDict.exe                2768 Console                    1     30,176 K
+ChsIME.exe                    7664 Console                    1     16,396 K
+YoudaoDictHelper.exe          6332 Console                    1     16,560 K
+YoudaoDictHelper.exe         14968 Console                    1     22,996 K
+YoudaoDictHelper.exe         11604 Console                    1     51,940 K
+YoudaoDictHelper.exe          5432 Console                    1     21,992 K
+YoudaoWSH.exe                 1752 Console                    1      5,464 K
+YoudaoDictHelper.exe         11884 Console                    1     41,124 K
+cmd.exe                      10668 Console                    1      5,396 K
+conhost.exe                   2248 Console                    1     13,860 K
+Video.UI.exe                 10972 Console                    1      1,552 K
+RuntimeBroker.exe             5736 Console                    1      6,992 K
+svchost.exe                  15036 Services                   0     10,572 K
+cmd.exe                       5336 Console                    1      6,828 K
+conhost.exe                  14832 Console                    1     17,656 K
+chrome.exe                    4720 Console                    1     59,104 K
+wpscloudsvr.exe              13376 Console                    1     36,288 K
+promecefpluginhost.exe        1236 Console                    1     52,756 K
+promecefpluginhost.exe        8072 Console                    1     26,636 K
+wps.exe                       2192 Console                    1     20,908 K
+wps.exe                       7088 Console                    1     49,432 K
+Code.exe                     12348 Console                    1    112,736 K
+smartscreen.exe               5268 Console                    1     22,276 K
+cmd.exe                      11036 Console                    1      5,184 K
+conhost.exe                  12040 Console                    1     16,396 K
+tasklist.exe                 11472 Console                    1      9,188 K
+ 
+Network Activities 
+
+IPv4 统计信息
+
+  接收的数据包                   = 476146
+  接收的标头错误             = 0
+  接收的地址错误            = 167
+  转发的数据报                = 0
+  接收的未知协议         = 0
+  丢弃的接收数据包         = 18642
+  传送的接收数据包         = 476719
+  输出请求                    = 342828
+  路由丢弃                   = 0
+  丢弃的输出数据包           = 1543
+  输出数据包无路由             = 71
+  需要重新组合                = 0
+  重新组合成功              = 0
+  重新组合失败                = 0
+  数据报分段成功  = 0
+  数据报分段失败    = 0
+  分段已创建                  = 0
+
+IPv6 统计信息
+
+  接收的数据包                   = 20091
+  接收的标头错误             = 0
+  接收的地址错误            = 23
+  转发的数据报                = 0
+  接收的未知协议         = 0
+  丢弃的接收数据包         = 1271
+  传送的接收数据包         = 20876
+  输出请求                    = 21582
+  路由丢弃                   = 0
+  丢弃的输出数据包           = 5151
+  输出数据包无路由             = 0
+  需要重新组合                = 0
+  重新组合成功              = 0
+  重新组合失败                = 0
+  数据报分段成功  = 0
+  数据报分段失败    = 0
+  分段已创建                  = 0
+
+ICMPv4 统计信息
+
+                            已接收    已发送
+  消息                  1663        3211      
+  错误                    1           0         
+  目标不可达   1643        3187      
+  超时             0           0         
+  参数问题        0           0         
+  源抑制           0           0         
+  重定向                 0           0         
+  回显回复              19          0         
+  回显                     0           23        
+  时间戳                0           0         
+  时间戳回复         0           0         
+  地址掩码             0           0         
+  地址掩码回复      0           0         
+  路由器请求      0           0         
+  路由器播发     0           0         
+
+ICMPv6 统计信息
+
+                            已接收    已发送
+  消息                  1210        4517      
+  错误                    0           0         
+  目标不可达   1077        1162      
+  数据包太大            0           0         
+  超时             0           0         
+  参数问题        0           0         
+  回显                     0           0         
+  回显回复              0           0         
+  MLD 查询               0           0         
+  MLD 报告               0           0         
+  MLD 已完成                 0           0         
+  路由器请求      0           14        
+  路由器播发     27          0         
+  邻居请求    57          3276      
+  邻居播发   49          65        
+  重定向                 0           0         
+  路由器重新编号       0           0         
+
+IPv4 的 TCP 统计信息
+
+  主动开放                        = 6244
+  被动开放                       = 13
+  失败的连接尝试          = 104
+  重置连接                   = 72
+  当前连接                 = 62
+  接收的分段                   = 347333
+  发送的分段                       = 258919
+  重新传输的分段              = 5590
+
+IPv6 的 TCP 统计信息
+
+  主动开放                        = 65
+  被动开放                       = 10
+  失败的连接尝试          = 9
+  重置连接                   = 0
+  当前连接                 = 0
+  接收的分段                   = 402
+  发送的分段                       = 445
+  重新传输的分段              = 17
+
+IPv4 的 UDP 统计信息
+
+  接收的数据报    = 126831
+  无端口              = 4332
+  接收错误        = 0
+  发送的数据报        = 70339
+
+IPv6 的 UDP 统计信息
+
+  接收的数据报    = 24150
+  无端口              = 201
+  接收错误        = 0
+  发送的数据报        = 16123
